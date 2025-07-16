@@ -1,24 +1,32 @@
-# README
+# Neko-no-Te🐱💮
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+🤦‍♀️「なにをやってもうまくいかないな…なんでこんなにダメなんだろう」
 
-Things you may want to cover:
+🤦‍♀️「もう疲れちゃったな…」
 
-* Ruby version
+🐱**「だいじょうぶ！！！」**
 
-* System dependencies
+🤦‍♀️「え！？」
 
-* Configuration
+生きることに疲れたあなたと私に届けたい猫の手🐾
 
-* Database creation
+---
 
-* Database initialization
+## 🛠 使用技術
 
-* How to run the test suite
+ - ruby 3.4.2
+ - Rails 7.2.2.1
+ - Tailwind CSS (CLI)
+ - 
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🌸 このアプリで届けたいこと
 
-* Deployment instructions
+ - 頑張る自分に「ひとことでも寄り添いを 
+ - ネコ目線から見た、前向きになれる魔法
+ - 転職や日々に疲れたあなたに、小さな休憩所
 
-* ...
+## 🔮 今後のアップデート案
+
+ - ネコから届く「前向きひとこと」ジェネレーター
+ - 切り抜き動画を載せられるカードレイアウト
+ - コメント投稿（Rails側での実装予定）
