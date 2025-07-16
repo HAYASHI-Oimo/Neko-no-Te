@@ -1,0 +1,2 @@
+class Catlog < ApplicationRecord
+end
