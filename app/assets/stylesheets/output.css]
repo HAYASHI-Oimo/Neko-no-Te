@@ -6,6 +6,9 @@
 .container {
   width: 100%;
 }
+.mx-auto {
+  margin-inline: auto;
+}
 .inline {
   display: inline;
 }
@@ -13,8 +16,23 @@
   border-style: var(--tw-border-style);
   border-width: 1px;
 }
-.underline {
-  text-decoration-line: underline;
+.text-center {
+  text-align: center;
+}
+@layer utilities {
+  .text-pink-600 {
+    color: rgb(219, 39, 119);
+  }
+  .font-bold {
+    font-weight: 700;
+  }
+  .text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+  .mb-2 {
+    margin-bottom: 0.5rem;
+  }
 }
 @property --tw-border-style {
   syntax: "*";

@@ -1,3 +1,20 @@
-@import 'tailwindcss';
-  /* ... */
-  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  colors: {
+    primary: #1da1f2;
+    accent: #ff5e57;
+  };
+  fontFamily: {
+    sans: ['"Open Sans"', 'sans-serif'];
+  };
+}
+
+@plugin require('@tailwindcss/forms');
+
+@source {
+  "./index.html";
+  "./src/**/*.{js,ts,jsx,tsx}";
+}
